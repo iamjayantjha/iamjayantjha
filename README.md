@@ -12,7 +12,7 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 </a>
 <a href="https://www.instagram.com/iamjayantjha/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" title="Instagram" width="20" height="20" />
 </a>
-<a href="https://www.linkedin.com/in/jayant-anand-jha-a16474135/"><img src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg" title="Instagram" width="20" height="20" />
+<a href="https://www.linkedin.com/in/jayant-anand-jha-a16474135/"><img src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg" title="Linkedin" width="20" height="20" />
 </a>
 <br>
 <hr>
