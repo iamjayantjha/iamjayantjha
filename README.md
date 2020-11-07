@@ -12,6 +12,8 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 </a>
 <a href="https://www.instagram.com/iamjayantjha/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png" title="Instagram" width="20" height="20" />
 </a>
+<a href="https://www.linkedin.com/in/jayant-anand-jha-a16474135/"><img src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg" title="Instagram" width="20" height="20" />
+</a>
 <br>
 <hr>
 <strong>Languages I have worked on</strong>
@@ -34,10 +36,10 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 <hr>
 <strong>OS I have used</strong>
 <p>
-<img src ="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg" width="40" height="40"/>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg" width="40" height="20"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" width="60" height="18"/>
-<img src = "https://upload.wikimedia.org/wikipedia/en/1/14/Windows_logo_-_2006.svg" width="25" height="18"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f3/MacOS_Catalina_wordmark.svg" width="60" height="18"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/c/cd/MacOS_Big_Sur_wordmark_2.svg" width="60" height="18"/>
-<img src = "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Chrome_OS_logo_as_of_2020.png" width="50" height="50"/>
+<img src = "https://upload.wikimedia.org/wikipedia/en/1/14/Windows_logo_-_2006.svg" text="Windows 7" width="25" height="18"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f3/MacOS_Catalina_wordmark.svg" width="60" height="22"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/c/cd/MacOS_Big_Sur_wordmark_2.svg" width="60" height="14"/>
+<img src = "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Chrome_OS_logo_as_of_2020.png" width="50" height="40"/>
 </p>
