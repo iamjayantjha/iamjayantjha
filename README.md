@@ -14,7 +14,7 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 </a>
 <br>
 <hr>
-Languages I have worked on
+**Languages I have worked on**
 <br>
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
