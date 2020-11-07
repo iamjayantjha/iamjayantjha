@@ -33,9 +33,11 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 </p>
 <hr>
 <strong>OS I have used</strong>
+<p>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg" width="40" height="40"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" width="60" height="18"/>
 <img src = "https://upload.wikimedia.org/wikipedia/en/1/14/Windows_logo_-_2006.svg" width="25" height="18"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/f/f3/MacOS_Catalina_wordmark.svg" width="60" height="18"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cd/MacOS_Big_Sur_wordmark_2.svg" width="60" height="18"/>
 <img src = "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Chrome_OS_logo_as_of_2020.png" width="50" height="50"/>
+</p>
