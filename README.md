@@ -14,7 +14,7 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 </a>
 <br>
 <hr>
-**Languages I have worked on**
+<strongLanguages I have worked on</strong>
 <br>
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -32,7 +32,7 @@ Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am purs
 <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <hr>
-**OS I have used**
+<strong>OS I have used</strong>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg" width="40" height="40"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" width="60" height="18"/>
 <img src = "https://upload.wikimedia.org/wikipedia/en/1/14/Windows_logo_-_2006.svg" width="25" height="18"/>
