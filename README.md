@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Things I code with 
+Alexa Qt Anaconda Homebrew SK Learn Tensorflow Jupyter Postman Git HTML Jinja Keras GNU Heroku Bootstrap Python CSS PyPi Java C++ CMake Arduino MatLab Autodesk MySQL AWS NumPy SQLite Pandas Flask Github Django
+
