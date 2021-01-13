@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Account<img src="https://media.giphy.com/media/l0IxZ9QKngk7yZWYU/source.gif" width="40" height="40" />
 <hr>
 
-Hi, My name is Jayant Anand Jha, I am an Android Developer. Currently, I am pursuing BTech from **Manipal University Jaipur**.
+Hi, My name is Jayant, I am an Android Developer. Currently, I am pursuing BTech from **Manipal University Jaipur**.
 <hr>
 
 **You can find me on**
