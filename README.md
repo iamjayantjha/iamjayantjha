@@ -51,5 +51,5 @@ You can read more about me <a href="https://zerostic.blogspot.com/2021/01/about-
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="22"/>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22"/>
 <img src = "https://img.shields.io/badge/-macOS%20Catalina-3776ab?style=flat-square&logo=apple&logoColor=white" width="60" height="22"/>
-<img src = "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Chrome_OS_logo_as_of_2020.png" width="80" height="40"/>
+<img src = "https://img.shields.io/badge/-f4b932?style=flat-sqcirlce&logo=google%20chrome&logoColor=white" width="80" height="40"/>
 </p>
