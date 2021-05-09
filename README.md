@@ -43,7 +43,6 @@ You can read more about me <a href="https://zerostic.blogspot.com/2021/01/about-
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-3776ab?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 <hr>
 <strong>OS I have used</strong>
