@@ -43,12 +43,13 @@ You can read more about me <a href="https://zerostic.blogspot.com/2021/01/about-
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-3776ab?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 <hr>
 <strong>OS I have used</strong>
 <p>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="22"/>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="22"/>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f3/MacOS_Catalina_wordmark.svg" width="60" height="22"/>
+<img src = "https://img.shields.io/badge/-macOS%20Catalina-3776ab?style=flat-square&logo=apple&logoColor=white" width="60" height="22"/>
 <img src = "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Chrome_OS_logo_as_of_2020.png" width="50" height="40"/>
 </p>
