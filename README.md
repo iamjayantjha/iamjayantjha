@@ -2,7 +2,7 @@
 <hr>
 
 Hi, My name is Jayant, I am an Android Developer. Currently, I am pursuing BTech from **Manipal University Jaipur**.
-You can read more about me <a href="https://zerostic.blogspot.com/2021/01/about-me.html#more">here</a>.
+You can read more about me <a href="https://zerostic.co">here</a>.
 <hr>
 
 **You can find me on**
